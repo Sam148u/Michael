@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    color: white;
+    background-image: url('../images/mich.jpg'); 
+    background-size: cover; 
+    
+}
+
+
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    text-align: right;
+    padding-right: 50px;
+}
+
+section {
+    padding-left: 50px;
+}
+        
